@@ -16,12 +16,8 @@ A simple, real-time weather forecast web app built with Python and Flask. Users 
 - API: WeatherAPI
 
 ## Project Structure
-weather-forecast-app/
-├── app.py # Command-line weather app
-├── main.py # Flask web application
-├── templates/
-│ └── index.html # HTML form and weather display
-└── README.md
+[Screenshot 2025-06-03 113300](https://github.com/user-attachments/assets/7277b1e8-a839-4e1c-8539-88bc3b58f30e)
+
 
 ## Install Dependencies
 pip install flask requests
