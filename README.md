@@ -29,6 +29,10 @@ Replace "your_weatherapi_key" in main.py and app.py with your actual API key fro
 python main.py
 Open your browser and go to: http://127.0.0.1:5000
 
+## Screenshot
+[image](https://github.com/user-attachments/assets/8b5b037d-b659-4d31-aaf9-d678984f0dc9)
+
+
 
 
 
